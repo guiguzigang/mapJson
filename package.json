@@ -1,0 +1,19 @@
+{
+  "name": "mapjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "city-map.js",
+  "scripts": {
+    "start": "node ./start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
